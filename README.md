@@ -14,17 +14,10 @@ dashboard (BLEU / ROUGE / loss / perplexity).
 
 ## Screenshots
 
-<!--
-  Add screenshots after your first local run:
-  1. Run: streamlit run app.py
-  2. Take screenshots of the Translate & Analyze page and the Model
-     Evaluation page
-  3. Save them as assets/screenshots/translate.png and
-     assets/screenshots/evaluation.png
-  4. Uncomment the two lines below
--->
-<!-- ![Translate & Analyze](assets/screenshots/translate.png) -->
-<!-- ![Model Evaluation](assets/screenshots/evaluation.png) -->
+<img width="1312" height="757" alt="image" src="https://github.com/user-attachments/assets/1458f40e-27fe-4027-bb08-c26215297e8e" />
+<img width="1312" height="757" alt="image" src="https://github.com/user-attachments/assets/51ba2676-a8f7-465f-98ba-518982e944cb" />
+
+
 
 ## Overview
 
