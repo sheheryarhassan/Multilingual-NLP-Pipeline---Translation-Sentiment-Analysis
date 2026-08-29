@@ -15,7 +15,8 @@ dashboard (BLEU / ROUGE / loss / perplexity).
 ## Screenshots
 
 <img width="1312" height="757" alt="image" src="https://github.com/user-attachments/assets/1458f40e-27fe-4027-bb08-c26215297e8e" />
-<img width="1312" height="757" alt="image" src="https://github.com/user-attachments/assets/51ba2676-a8f7-465f-98ba-518982e944cb" />
+<img width="1308" height="754" alt="image" src="https://github.com/user-attachments/assets/3ff7be98-334e-4811-9898-23c0fec35ae1" />
+
 
 
 
