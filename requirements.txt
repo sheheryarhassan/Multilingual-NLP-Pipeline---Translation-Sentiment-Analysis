@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+sentencepiece
+nltk
+rouge
+numpy
+pytest
