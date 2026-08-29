@@ -4,8 +4,7 @@
 built on Hugging Face MarianMT and DistilBERT, with a full model-evaluation
 dashboard (BLEU / ROUGE / loss / perplexity).
 
-<!-- If you deploy this, put the live link here: -->
-<!-- 🔗 **[Live Demo](https://your-app-url.streamlit.app)** -->
+🔗 **[Live Demo](https://multilingual-nlp-pipeline---translation-sentiment-analysisgit.streamlit.app/)**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
